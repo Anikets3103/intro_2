@@ -1,2 +1,2 @@
 # intro_2
-First Github repo
+First Github repositry
